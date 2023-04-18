@@ -19,18 +19,15 @@
 
 
 
-- 🔭 I’m currently working on ...
-- A project to buy and sell cars in Costa Rica 
-- Trying to learn more skills and more about my skills
+- 🔭 I’m currently working on a project to buy and sell cars in Costa Rica 
+- Trying to learn more about skills and continuing to expand my knowledge 
     
-- 👯 I’m looking to collaborate on ...
-- Anything o anyone, currently trying to learn as much as I can
+- 👯 I’m looking to collaborate on anything with anyone, currently trying to learn as much as I can
 
 
-- 💬 Ask me about 
-- Fitness 
+- 💬 Ask me about Fitness 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - https://www.linkedin.com/in/matias-uribe-40285a256/
 - matiuribec2020@gmail.com
 
